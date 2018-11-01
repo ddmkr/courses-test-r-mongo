@@ -6,6 +6,7 @@ library(remotes)
 # install_version("dplyr", "0.7.5")
 # install_version("tidyr", "0.8.1")
 # install_version("purrr", "0.2.5")
+install.packages("mongolite")
 
 ##### Install packages in development from GitHub #####
 
